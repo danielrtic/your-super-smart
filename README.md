@@ -1,13 +1,13 @@
-# Tu super inteligente
+# Your super smart
 
-Un proyecto donde almacenar precios de articulos, informacion de los articulos y supermercados para poder crear un historico de lo que valia.
+A project where to store item prices, item and supermarket information in order to create a history of what it was worth.
 
-## Estructura del proyecto:
+## Project structure:
 
-Se podra acceder mediante una aplicacion en python para pc y una aplicacion python para movil.
+It will be accessible through a python application for pc and a python application for mobile.
 
-La aplicacion para movil tendra la carecteristica que la base de datos online que es mysql pueda descargarse y trabajar en ella con sql-lite para hacerlo sin conexion.
+The mobile application will have the feature that the online database that is mysql can be downloaded and work on it with sql-lite to do it offline.
 
-Tambien esta la posibilidad de añadir nuevos datos con sql-lite ( con una base de dato aparte) y subir los cambios a la base de datos mysql.
+There is also the possibility to add new data with sql-lite (with a separate database) and upload the changes to the mysql database.
 
-El proyecto es a largo plazo y tendra idioma en español y tambien en ingles.
+The project is long term and will be in english and spanish language.
